@@ -1,4 +1,5 @@
 class Solution {
+    // leetcode
     public String getHint(String secret, String guess) {
     int[] secretCount = new int[10];
         int[] guessCount = new int[10];
